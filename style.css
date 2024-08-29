@@ -1,0 +1,12 @@
+.container{
+    margin:0 auto;
+    max-width:400px;
+    text-align: center;
+    padding: 20px;
+    font-family:"Roboto", sans-serif;
+}
+.title{
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: rgb(22, 22, 22);
+}
